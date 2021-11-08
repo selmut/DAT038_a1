@@ -1,2 +1,2 @@
 # DAT038_a1
-Data structures and algorithms, assignment 1
+Data structures and Algorithms - Assignment 1
